@@ -32,10 +32,10 @@ I am passionate about solving practical energy challenges by blending field-base
 
 
 ## Publications
-1.Gomado, Foster Dodzi, Khalifeh, Mahmoud, Kamali, Mohammadreza, Saasen, Arild, and Jan Aage Aasen. "Sealing Performance of Geopolymer for Plugging and Abandonment; Apple-to-Apple Scenario." Paper presented at the SPE Norway Subsurface Conference, Bergen, Norway, April 2022. https://doi.org/10.2118/209552-MS
-2. Gomado, Foster Dodzi, Khalifeh, Mahmoud, and Jan Aage Aasen. "Expandable Geopolymers for Improved Zonal Isolation and Plugging." Paper presented at the SPE/IADC International Drilling Conference and Exhibition, Stavanger, Norway, March 2023. https://doi.org/10.2118/212493-MS
-3.Gomado, Foster Dodzi, Khalifeh, Mahmoud, Saasen, Arild, Sanfelix, Susana G., Kjøniksen, Anna-Lena, and Jan Aage Aasen. "Effect of Calcium Expansive Additives on the Performance of Granite-Based Geopolymers for Zonal Isolation in Oil and Gas Wells." SPE J. 28 (2023): 2790–2801. https://doi.org/10.2118/217431-PA
-4.Gomado, Foster Dodzi., Khalifeh, Mahmoud, and Rafique, Maryam. (2024). Harnessing waste glass as an expansive agent controller for enhanced Geopolymer performance in oil and gas wells. Geoenergy Science and Engineering, 243, 213299.
+- 1.Gomado, Foster Dodzi, Khalifeh, Mahmoud, Kamali, Mohammadreza, Saasen, Arild, and Jan Aage Aasen. "Sealing Performance of Geopolymer for Plugging and Abandonment; Apple-to-Apple Scenario." Paper presented at the SPE Norway Subsurface Conference, Bergen, Norway, April 2022.https://doi.org/10.2118/209552-MS
+- 2. Gomado, Foster Dodzi, Khalifeh, Mahmoud, and Jan Aage Aasen. "Expandable Geopolymers for Improved Zonal Isolation and Plugging." Paper presented at the SPE/IADC International Drilling Conference and Exhibition, Stavanger, Norway, March 2023. https://doi.org/10.2118/212493-MS
+- 3. Gomado, Foster Dodzi, Khalifeh, Mahmoud, Saasen, Arild, Sanfelix, Susana G., Kjøniksen, Anna-Lena, and Jan Aage Aasen. "Effect of Calcium Expansive Additives on the Performance of Granite-Based Geopolymers for Zonal Isolation in Oil and Gas Wells." SPE J. 28 (2023): 2790–2801. https://doi.org/10.2118/217431-PA
+- 4. Gomado, Foster Dodzi., Khalifeh, Mahmoud, and Rafique, Maryam. (2024). Harnessing waste glass as an expansive agent controller for enhanced Geopolymer performance in oil and gas wells. Geoenergy Science and Engineering, 243, 213299.
 https://doi.org/https://doi.org/10.1016/j.geoen.2024.213299
-5.Gomado, F. D., Agista, M. N., and Khalifeh, M. Hydraulic Sealability Of Geopolymers For Shallow Depth Cementing - A Comparative Study. SPE/IADC International Drilling Conference and Exhibition, Stavanger, Norway, March 2025.
+- 5. Gomado, F. D., Agista, M. N., and Khalifeh, M. Hydraulic Sealability Of Geopolymers For Shallow Depth Cementing - A Comparative Study. SPE/IADC International Drilling Conference and Exhibition, Stavanger, Norway, March 2025.
 
